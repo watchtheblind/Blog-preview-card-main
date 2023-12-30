@@ -2,6 +2,7 @@
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 ![tools](https://branditechture.agency/brand-logos/wp-content/uploads/2022/08/CSS3-HTML5-1024x726.png=714x313)
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 ## Table of contents 📖
 
 - [Overview](#overview)
