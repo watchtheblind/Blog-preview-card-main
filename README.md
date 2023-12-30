@@ -1,7 +1,7 @@
 # 🧑🏻‍💻 Frontend Mentor - Blog preview card solution 🧑🏻‍💻
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-<img src="[https://branditechture.agency/brand-logos/wp-content/uploads/2022/08/CSS3-HTML5-1024x726.png=714x313)]" width="200" height="400" />
+<img src="https://branditechture.agency/brand-logos/wp-content/uploads/2022/08/CSS3-HTML5-1024x726.png=714x313" width="200" height="400" />
 ## Table of contents 📖
 
 - [Overview](#overview)
